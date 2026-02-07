@@ -1,7 +1,7 @@
 # 👶 Babyspy
 > **A little helper for moms and dads.**
 
-![Babyspy Main Render](assets/render_main.png)
+Babyspy Main Render <img width="1347" height="691" alt="Render #1 Babyspy" src="https://github.com/user-attachments/assets/f4ad27ed-3949-41f0-8958-5c47172e9ddb" />
 <!-- Place the main 3D render image (orange/green device) here in an 'assets' folder -->
 
 ## 📖 About The Project
@@ -50,7 +50,11 @@ It is available in three colorways based on color psychology:
 *   **🍊 Orange:** Neutral.
 *   **🍏 Green:** For boys.
 
-![Color Options](assets/colors.png)
+Color Options <img width="1347" height="691" alt="Render #1 Babyspy" src="https://github.com/user-attachments/assets/245ea060-19ed-4861-8ac8-a8bb2946e21f" />
+<img width="1343" height="690" alt="Render #6 Babyspy" src="https://github.com/user-attachments/assets/7c91b1b0-29ea-4b24-a2b6-69b3d2e36f7b" />
+<img width="1319" height="687" alt="Render #7 Babyspy" src="https://github.com/user-attachments/assets/b3d282f4-f46a-4b49-baf7-59fc7a6739e2" />
+
+
 <!-- Place the slide showing the 3 color variations here -->
 
 ---
@@ -63,8 +67,7 @@ The parent's dashboard allows for:
 *   Setting up "No-Go" zones.
 *   Receiving instant alerts.
 
-![App Interface](assets/app_mockup.png)
-<!-- Place the iPhone app interface screenshot here -->
+
 
 ---
 
