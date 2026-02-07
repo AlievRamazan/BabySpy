@@ -90,3 +90,9 @@ The parent's dashboard allows for:
 *   **Project Author:** Ramazan Aliyev (Grade 9)
 *   **Project Manager:** M.M. Bayrambekov
 *   **Year of Creation:** 2022
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
